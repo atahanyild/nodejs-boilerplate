@@ -10,6 +10,10 @@ Hey, this is my personal Node.js -Express, Mongoose, Session-based Authenticatio
 
     npm install
 
+    rename .env.example to .env
+
+    fill the environment variables
+
     npm run dev
 
     it is accesable via : http://localhost:3000
