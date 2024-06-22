@@ -3,8 +3,7 @@ Hey, this is my personal Node.js -Express, Mongoose, Session-based Authenticatio
 
 **To start working**
 
-    ```bash
-
+    ```
     git clone https://github.com/atahanyild/nodejs-boilerplate
 
     cd nodejs-boilerplate
