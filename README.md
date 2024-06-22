@@ -1,5 +1,5 @@
 ## nodejs-boilerplate
-Hey, this is my personal Node.js -Express, Mongoose, Session-based Authentication" boilerplate to clone and start working right away.
+Hey, this is my personal Node.js -Express, Mongoose, Session-based Authentication- boilerplate to clone and start working right away.
 
 **To start working**
 
